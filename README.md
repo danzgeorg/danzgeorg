@@ -4,7 +4,7 @@ I currently studying computer science with the goal of becoming a Software Engin
 ## 🎓 Education
 <p>
   <a href="https://www.city.ac.uk/">
-    <img src="https://seeklogo.com/vector-logo/368459/city-university-of-london"/>
+    <img src="https://ca.studyacrossthepond.com/sites/default/files/city_uol_new_0.png"/>
   </a>
 </p>
 ## 🛠 Stack
