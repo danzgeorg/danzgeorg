@@ -4,6 +4,9 @@ I currently studying computer science with the goal of becoming a Software Engin
 ## 🎓 Education
 <p>
   Here is the university's information. This is where I am studying as part of a 3 year Bsc Computer Science course. You can check out the website and also what I will be exploring as my education continues.
+</p>
+
+<p>
   <a href="https://www.city.ac.uk/">
     <img src="https://ca.studyacrossthepond.com/sites/default/files/city_uol_new_0.png"/>
   </a>
