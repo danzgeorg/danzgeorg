@@ -31,5 +31,7 @@ Want to check out my university work? [CLICK HERE](https://github.com/danzgeorg/
 Want to check out my personal work? [CLICK HERE](https://github.com/tandpfun/skill-icons#icons-list)
 
 ## Contact
+<p>
 [LinkedIn](https://www.linkedin.com/in/daniel-georgiev-a2aa1832b/)
 E-Mail: danzgeorg.contact@gmail.com
+<\p>
