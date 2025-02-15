@@ -11,7 +11,8 @@ I currently studying computer science with the goal of becoming a Software Engin
     <img src="https://ca.studyacrossthepond.com/sites/default/files/city_uol_new_0.png"/>
   </a>
 </p>
-## 🛠 Stack
+
+##
 <p>
   This is a list of skills I am learning currently or have used before in older projects. This list will grow as I explore other useful skills in my education and research into different programming languages!
 </p>  
