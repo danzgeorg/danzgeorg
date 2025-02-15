@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Daniel
-I currently studying computer science with the goal of becoming a Software Engineer and to explore the world of AI. I enjoy problem-solving, writing efficient code in the languages listed below and am excited to learn about new technologies!
+I'm currently studying computer science with the goal of becoming a Software Engineer and to explore the world of AI. I enjoy problem-solving, writing efficient code in the languages listed below and am excited to learn about new technologies!
 
 ## 🎓 Education
 <p>
