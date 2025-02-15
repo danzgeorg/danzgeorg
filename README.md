@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Daniel
 
-## 🛠 My Stack
+## 🛠 Stack
 <p>
   This is a list of skills I am learning currently or have used before in older projects. This list will grow as I explore other useful skills in my education and personal research on programming languages!
 </p>
@@ -9,3 +9,9 @@
     <img src="https://skillicons.dev/icons?i=godot,html,java,js,mysql,processing,py,replit&perline=4&theme=dark" />
   </a>
 </p>
+
+## 🗃️ Work
+
+### 📚 University Work
+
+### Personal Work
