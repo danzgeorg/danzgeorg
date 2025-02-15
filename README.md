@@ -30,7 +30,7 @@ Want to check out my university work? [CLICK HERE](https://github.com/danzgeorg/
 ### 📁 Personal Work
 Want to check out my personal work? [CLICK HERE](https://github.com/tandpfun/skill-icons#icons-list)
 
-## Contact
+## 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/daniel-georgiev-a2aa1832b/)
 
 E-Mail: danzgeorg.contact@gmail.com)
