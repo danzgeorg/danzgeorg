@@ -25,11 +25,11 @@ I currently studying computer science with the goal of becoming a Software Engin
 ## 🗃️ Work
 
 ### 📚 University Work
-Want to check out my university work? [CLICK HERE] (https://github.com/tandpfun/skill-icons#icons-list)
+Want to check out my university work? [CLICK HERE](https://github.com/tandpfun/skill-icons#icons-list)
 
 ### 📁 Personal Work
-Want to check out my personal work? [CLICK HERE] (https://github.com/tandpfun/skill-icons#icons-list)
+Want to check out my personal work? [CLICK HERE](https://github.com/tandpfun/skill-icons#icons-list)
 
 ## Contact
-[LinkedIn] (https://www.linkedin.com/in/daniel-georgiev-a2aa1832b/)
+[LinkedIn](https://www.linkedin.com/in/daniel-georgiev-a2aa1832b/)
 E-Mail: danzgeorg.contact@gmail.com
