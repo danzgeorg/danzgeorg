@@ -33,4 +33,4 @@ Want to check out my personal work? [CLICK HERE](https://github.com/danzgeorg/pe
 ## 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/daniel-georgiev-a2aa1832b/)
 
-E-Mail: danzgeorg.contact@gmail.com)
+E-Mail: danzgeorg.contact@gmail.com
