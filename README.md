@@ -14,7 +14,7 @@ I'm currently studying computer science with the goal of becoming a Software Eng
 
 ## 🛠 Tech Stack
 <p>
-  This is a list of skills I am learning currently or have used before in older projects. This list will grow as I explore other useful skills in my education and research into different programming languages!
+  This is a list of skills I am learning currently or have used before in older projects.
 </p>  
 <p align="center">
   <a href="https://skillicons.dev">
