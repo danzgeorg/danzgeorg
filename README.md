@@ -3,7 +3,7 @@ I'm currently studying computer science with the goal of becoming a Software Eng
 
 ## 🎓 Education
 <p>
-  Here is the university's information. This is where I am studying as a first year being part of a 3 year Bsc Computer Science course. You can check out the website and also what I will be exploring as my education continues.
+  Here is the university's information. This is where I am studying as a second year being part of a 3 year Bsc Computer Science course. You can check out the website and also what I will be exploring as my education continues.
 </p>
 
 <p>
