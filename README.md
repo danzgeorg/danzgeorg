@@ -22,9 +22,7 @@ I'm currently studying computer science with the goal of becoming a Software Eng
   </a>
 </p>
 
-## 🗃️ Work
-
-### 📚 University Work
+## 📚 University Work
 Want to check out my university work? [CLICK HERE](https://github.com/danzgeorg/university_work)
 
 ## 📫 Contact
