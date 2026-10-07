@@ -2,7 +2,7 @@
 
 Final-year Computer Science student at City St George's, University of London (graduating 2027). I'm looking for **graduate software engineering roles and placements in London or Leeds**.
 
-I build backend services in Python and Java, I've worked in a six-person team project as deputy project manager, and I make games in Godot and Java in my spare time.
+I build backend services in Python and Java, I've worked in a six-person team project as deputy project manager, and I've made games in Godot and Java in my spare time.
 
 ## Featured projects
 
