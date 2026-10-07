@@ -11,7 +11,7 @@ I have built backend services in Python, worked in a six-person java team projec
 | [FastCore](https://github.com/danzgeorg/FastCore) | A FastAPI backend built feature by feature through pull requests, with a pytest suite, type checking and linting in CI | Python, FastAPI, Pydantic, pytest, ruff, mypy, GitHub Actions |
 | [IPOS-PU](https://github.com/danzgeorg/team-project) | The customer portal of a pharmacy ordering system, built by a team of six. I was deputy PM and owned order processing, payments and checkout logic | Java 17, JavaFX, MySQL, Maven, JUnit |
 | [Medieval Tower Defence Simulator](https://github.com/danzgeorg/godot-tower-defence) | A 2D tower defence game with enemy waves, tower targeting and grid-based building. [Playable Windows build](https://github.com/danzgeorg/godot-tower-defence/releases/latest) | Godot 4.2, GDScript |
-| [Java Platformer](https://github.com/danzgeorg/java-projects/tree/main/GameProject) | A three-level 2D platformer with physics, enemies, pickups and sound | Java, Swing, JBox2D |
+| [Java Platformer](https://github.com/danzgeorg/java-platformer) | A three-level 2D platformer with physics, enemies, pickups and sound | Java, Swing, JBox2D |
 
 ## Tech stack
 
