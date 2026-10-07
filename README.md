@@ -23,7 +23,7 @@ I'm currently studying computer science with the goal of becoming a Software Eng
 </p>
 
 ## 📚 Repositories
-Make sure to check out all of my repositories to see the work I have done!
+Make sure to check out all of my [repositories](https://github.com/danzgeorg?tab=repositories) to see the work I have done!
 
 ## 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/daniel-georgiev-a2aa1832b/)
