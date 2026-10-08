@@ -2,7 +2,7 @@
 
 Final-year Computer Science student at City St George's, University of London (graduating 2027). I'm looking for **graduate tech roles and placements in London or Leeds**.
 
-I have built backend services in Python, worked in a six-person java team project as deputy project manager, and I've made games in Godot and Java in my spare time.
+I have built backend services in Python, worked in a six-person Java team project as deputy project manager, and I've made games in Godot and Java in my spare time.
 
 ## Featured projects
 
@@ -11,7 +11,7 @@ I have built backend services in Python, worked in a six-person java team projec
 | [FastCore](https://github.com/danzgeorg/FastCore) | A FastAPI backend built feature by feature through pull requests, with a pytest suite, type checking and linting in CI | Python, FastAPI, Pydantic, pytest, ruff, mypy, GitHub Actions |
 | [IPOS-PU](https://github.com/danzgeorg/team-project) | The customer portal of a pharmacy ordering system, built by a team of six. I was deputy PM and owned order processing, payments and checkout logic | Java 17, JavaFX, MySQL, Maven, JUnit |
 | [Medieval Tower Defence Simulator](https://github.com/danzgeorg/godot-tower-defence) | A 2D tower defence game with enemy waves, tower targeting and grid-based building. [Playable Windows build](https://github.com/danzgeorg/godot-tower-defence/releases/latest) | Godot 4.2, GDScript |
-| [Java Platformer](https://github.com/danzgeorg/java-platformer) | A three-level 2D platformer with physics, enemies, pickups and sound | Java, Swing, JBox2D |
+| [Pixel Adventure](https://github.com/danzgeorg/java-platformer) | A three-level 2D platformer with physics, enemies, pickups and sound | Java, Swing, JBox2D |
 
 ## Tech stack
 
@@ -27,7 +27,7 @@ I have built backend services in Python, worked in a six-person java team projec
 - [networks](https://github.com/danzgeorg/networks): a peer-to-peer key/value network over UDP in Java
 - [java-projects](https://github.com/danzgeorg/java-projects): object-oriented Java exercises
 - [creative-coding-java](https://github.com/danzgeorg/creative-coding-java): Processing sketches
-- [intro-to-ai](https://github.com/danzgeorg/intro-to-ai): python exercises and coursework using pandas, scikit-learn and neural networks
+- [intro-to-ai](https://github.com/danzgeorg/intro-to-ai): Python exercises and coursework using pandas, scikit-learn and neural networks
 
 ## Contact
 
