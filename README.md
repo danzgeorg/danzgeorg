@@ -27,6 +27,7 @@ I have built backend services in Python, worked in a six-person java team projec
 - [networks](https://github.com/danzgeorg/networks): a peer-to-peer key/value network over UDP in Java
 - [java-projects](https://github.com/danzgeorg/java-projects): object-oriented Java exercises
 - [creative-coding-java](https://github.com/danzgeorg/creative-coding-java): Processing sketches
+- [intro-to-ai](https://github.com/danzgeorg/intro-to-ai): python exercises and coursework using pandas, scikit-learn and neural networks
 
 ## Contact
 
